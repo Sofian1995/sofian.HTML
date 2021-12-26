@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	
+	<title>page</title>
+
+</head>
+<body bgcolor="#eb4034" text="white">
+<h1 align="center">welcom</h1>
+<p align="center">this is my first project</p>
+<img src="11.jpeg" alt="imeg not found" width="100px" height="50px">	
+<ol>
+<li type="I">item 1</li>	
+<li type="I">item 2</li>	
+<li type="I">item 3</li>	
+</ol>	
+<ul>
+<li>item 1</li>	
+<li>item 2</li>
+<li>item 3</li>
+</ul>
+<a href="#dd">click</a>
+hat is Lorem Ipsum?
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+Why do we use it?
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+
+
+Where does it come from?
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+
+Where can I get some?
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+<h1 id="dd">take me there</h1>
+
+5
+	paragraphs
+	words
+	bytes
+	lists
+	Start with 'Lorem
+ipsum dolor sit amet...'<br>
+<a href="https://ar-ar.facebook.com/"target="-blank">facebook</a>
+<br>
+<img src="123.jpg"alt="imeg not found" width="500px" height="100px">
+<br>
+<a href="https://ar-ar.facebook.com/"><img src="11.jpeg"alt="imeg not found">photo</a>
+<br>
+<img src="fff.jpg"alt="C:\Users\user\OneDrive\Pictures.jpg">
+<a href="https://ar-ar.facebook.com/"><img src="11.jpeg"alt="imeg not found">photo</a>
+<img src="https://www.pexels.com/photo/a-photography-of-a-man-standing-on-a-tree-3680219/">
+<table border="1" bgcolor="blue" align="center" width="400px" height="100px">
+<tr>
+<th>name</th>
+<th>mark</th>
+</tr>
+<tr>
+<td>seos</td>
+<td>20</td>
+</tr>	
+</table>
+<form>
+<label for="dd">enter your name</label><br>
+<input type="text" name="dd" id="dd"><br>	
+<label for="ff">enter your age</label><br>
+<input type="text" name="ff" id="ff"><br>
+</form>
+<br>
+choose your gender:
+<br>
+<form>
+<input type="radio" name="gender" id="fe" value="female">
+<label for="fe">female</label><be>
+<input type="radio" name="gender" id="fa" value="male" checked="checked">	
+<label for="fa">male</label><br>
+</form>
+<br>
+<form>
+<input type="checkbox" name="gender" id="fe" value="female">
+<label for="fe">female</label><be>
+<input type="checkbox" name="gen" id="fa" value="male" >	
+<label for="fa">male</label><br>
+<input type="submit" name="submit" value="submit">	
+</form>
+</body>
+</html>
